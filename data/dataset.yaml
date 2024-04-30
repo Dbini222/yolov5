@@ -1,0 +1,11 @@
+# Path settings
+path: ../FYP/data/raw/od_images
+train: training/images  # Relative to 'path'
+val: validation/images  # Relative to 'path'
+
+# Number of classes
+nc: 1  
+
+# Class names
+names:
+  - design 
