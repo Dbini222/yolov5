@@ -1,5 +1,5 @@
 # Path settings
-path: ../FYP/data/raw/od_images
+path: ../data/raw/od_images
 train: training/images  # Relative to 'path'
 val: validation/images  # Relative to 'path'
 
